@@ -1,6 +1,6 @@
 # clock
 
-<img src="src/assets/images/clock.gif">
+<img src="src/assets/images/clockk.gif">
 
 ## Project setup
 ```
